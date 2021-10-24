@@ -20,6 +20,12 @@ p {
 	font-weight: 300;
 }
 
+.shop {
+	background: no-repeat center url("./img/shiny.jpeg");
+	background-size: cover
+}
+
+
 .header{
 	overflow: auto;
 	display: block;
