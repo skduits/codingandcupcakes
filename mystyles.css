@@ -21,8 +21,9 @@ p {
 }
 
 .shop {
-	background: no-repeat center url("./img/shiny.jpeg");
-	background-size: cover
+	background: no-repeat center url("./img/sparklesSparkles.jpeg");
+	background-size: cover;
+	color: #FF005B;
 }
 
 
@@ -105,6 +106,9 @@ ul.inline {
 	text-align:center;
 	overflow: auto;
 	clear: both;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 
 ul.inline li{
